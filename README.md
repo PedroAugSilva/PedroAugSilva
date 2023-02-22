@@ -1,10 +1,10 @@
 <div style="align-itens: center; display: flex; flex-direction: column;">
   <ul>
-    <li>✔Hi, i'm Pedro Augusto Souza da Silva</li>
-    <li>🎯 I'm 17 years old</li>
-    <li>📬 Contact me: pedroaugustosilva.880@gmail.com</li>
-    <li>👩‍💻 I'm full-stack developer</li>
-    <li>🚀 Visit my portfolio website: https://pedroaugusto.vercel.app/</li
+    <li>✔  Olá!! eu sou Pedro Augusto Souza da Silva</li>
+    <li>🎯 Tenho 17 anos de idade</li>
+    <li>📬 entre em contato: pedroaugustosilva.880@gmail.com</li>
+    <li>👩‍💻 Desenvolvedor Full-Stack</li>
+    <li>🚀 Visite o site do meu portfólio: https://pedroaugusto.vercel.app/</li>
   </ul>
   <br>
 <div align="center">
