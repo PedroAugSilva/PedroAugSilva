@@ -4,7 +4,7 @@
     <li>🎯 I'm 17 years old</li>
     <li>📬 Contact me: pedroaugustosilva.880@gmail.com</li>
     <li>👩‍💻 I'm full-stack developer</li>
-    <li>🚀 Visit my portfolio: https://pedroaugusto.vercel.app/</li
+    <li>🚀 Visit my portfolio website: https://pedroaugusto.vercel.app/</li
   </ul>
   <br>
 <div align="center">
