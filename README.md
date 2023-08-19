@@ -17,10 +17,10 @@
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="NextJs" height="30" width="30" style="margin-left: 10px;" src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png">
   <img align="center" alt="Node" height="30" width="27" src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="MYSQL" height="30" width="50" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/mysql-icon.png">
 </div>
   
   ##
