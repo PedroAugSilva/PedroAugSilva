@@ -1,7 +1,7 @@
 <div style="align-itens: center; display: flex; flex-direction: column;">
   <ul>
     <li>✔  Olá!! Eu sou Pedro Augusto Souza da Silva</li>
-    <li>🎯 Tenho 17 anos de idade</li>
+    <li>🎯 Tenho 18 anos de idade</li>
     <li>📬 Entre em contato: pedroaugustosilva.880@gmail.com</li>
     <li>👩‍💻 Desenvolvedor Full-Stack</li>
     <li>🚀 Visite o site do meu portfólio: https://portfolio-pedro-one.vercel.app/</li>
