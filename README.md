@@ -4,7 +4,7 @@
     <li>🎯 Tenho 18 anos de idade</li>
     <li>📬 Entre em contato: pedroaugustosilva.880@gmail.com</li>
     <li>👩‍💻 Desenvolvedor Full-Stack</li>
-    <li>🚀 Visite o site do meu portfólio: https://portfolio-pedro-one.vercel.app/</li>
+    <li>🚀 Visite o site do meu portfólio: <a href="https://portfolio-pedro-one.vercel.app/" target="_blank">https://portfolio-pedro-one.vercel.app/</a></li>
   </ul>
   <br>
 <div align="center">
